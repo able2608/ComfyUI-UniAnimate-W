@@ -16,6 +16,8 @@
 
 The ComfyUI nodes created are `Align & Generate poses for UniAnimate` & `Animate image with UniAnimate`
 
+Update 12/04/2024: Optimize `Animate image with UniAnimate` to work better with low VRAM environments
+
 Update 07/09/2024: Added two nodes: `Animate image with UniAnimate_Long` for long video generation, and `Repose image with UniAnimate` for img2img pose transfer
 
 Update 09/09/2024: Released a [video](https://youtu.be/Ne-DSBhfg8A) on using the two new nodes for best results      
